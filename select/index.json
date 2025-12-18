@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜迷い言",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-18T09:23:21.689218Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜迷い言",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_夜迷い言_HACHI.txt"
+    }
+  ]
+}
